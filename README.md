@@ -4,8 +4,8 @@
 ## Used MongoDB ExpressJS in Back End
 
 # Make use of the app
-. CD into the prject file and type node server.js to run the first section of the app (Data Fiels)
-. CD into scheduler-component and type npm start to re=un the FullCalenar 
+* CD into the prject file and type node server.js to run the first section of the app (Data Fiels)
+* CD into scheduler-component and type npm start to re=un the FullCalenar 
 
 # Dependencies :
 -  body-parser: ^1.19.0.
